@@ -22,7 +22,8 @@ In this case :
 10 is the stock value of a comany X on Day 5.
 
 You need to find the day where I can buy the stock and day where I can sell the stock to get the max profit :
-In the above case, If I buy the stock at Day 0 (i.e when the value is 1) and sell on Day 4 (when the value is 34). I get the max profit. Profit = 34-1 = 33.
+In the above case, If I buy the stock at Day 0 (i.e when the value is 1) and sell on Day 4 (when the value is 34). 
+I get the max profit. Profit = 34-1 = 33.
 If there is a test case in which any profit is not possible, Print -1.
 Test Cases :
 
